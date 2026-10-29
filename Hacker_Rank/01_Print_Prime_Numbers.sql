@@ -1,6 +1,6 @@
-### Q link: https://www.hackerrank.com/challenges/print-prime-numbers/problem?isFullScreen=true
+/*** Q link: https://www.hackerrank.com/challenges/print-prime-numbers/problem?isFullScreen=true ***/
 
-### Submission: (Language: MS SQL Server )
+/**** Submission: (Language: MS SQL Server ) *****/
 
 SET NOCOUNT ON;
 
