@@ -1,6 +1,8 @@
+/*****
 ## Q Link: https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true
 
 ## Submission:
+******/
 
 Select
 f.company_code
