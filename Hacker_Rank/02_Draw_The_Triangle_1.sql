@@ -1,6 +1,6 @@
-## Q Link: https://www.hackerrank.com/challenges/draw-the-triangle-1/problem?isFullScreen=true
+/**** ## Q Link: https://www.hackerrank.com/challenges/draw-the-triangle-1/problem?isFullScreen=true
 
-# Submission: 
+# Submission:  ****/
 
 SET NOCOUNT ON;
 
