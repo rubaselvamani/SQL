@@ -1,5 +1,5 @@
-## Q Link : https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true
-## Submission:
+/**** ## Q Link : https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true
+## Submission:  ****/
 
 SET @rownum := -1;
  
